@@ -1,0 +1,15 @@
+{
+  "pack": {
+    "description": {
+      "text": "Create: Upgraded Automation",
+      "type": "text",
+      "extra": [
+        "made by oscar4583"
+      ],
+      "color": "#f5c211",
+      "bold": true
+    },
+    "pack_format": 48,
+    "supported_formats": 48
+  }
+}
